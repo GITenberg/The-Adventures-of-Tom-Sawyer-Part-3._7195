@@ -1,0 +1,38 @@
+_repo: The-Adventures-of-Tom-Sawyer-Part-3._7195
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Twain, Mark
+    aliases:
+    - Clemens, Samuel Langhorne
+    - Twain, Mark (Samuel Clemens)
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
+description: ''
+gutenberg_issued: '2004-06-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7195'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcc 'PS'
+- !lcsh 'Male friendship -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Child witnesses -- Fiction'
+- !lcsh 'Sawyer, Tom (Fictitious character) -- Fiction'
+- !lcsh 'Mississippi River Valley -- Fiction'
+- !lcsh 'Missouri -- Fiction'
+- !lcsh 'Runaway children -- Fiction'
+- !lcsh 'Bildungsromans'
+- !lcsh 'Humorous stories'
+- !lcsh 'Boys -- Fiction'
+- GITenberg
+title: The Adventures of Tom Sawyer, Part 3.
+url: http://www.gutenberg.org/ebooks/7195
